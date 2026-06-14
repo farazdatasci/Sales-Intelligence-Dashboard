@@ -1,0 +1,84 @@
+Professional Features Included
+Executive Dashboard
+
+✔ Total Sales
+
+✔ Total Units
+
+✔ Best Product
+
+✔ Best Area
+
+✔ Monthly Trend
+
+✔ Quarterly Trend
+
+✔ Blue vs Green Performance
+
+Product Analytics
+
+✔ Top Products
+
+✔ Bottom Products
+
+✔ Product Contribution %
+
+✔ Pareto Analysis
+
+Area Analytics
+
+✔ Area Ranking
+
+✔ Area Contribution %
+
+✔ Opportunity Areas
+
+Salesman Analytics
+
+✔ Top Salesman
+
+✔ Salesman Scorecard
+
+✔ Territory Analysis
+
+(only appears if Sales_man column exists)
+
+Forecasting
+
+✔ Next 3 Months
+
+✔ Next 6 Months
+
+✔ Trend Prediction
+
+using Linear Regression
+
+PDF Export
+
+✔ Executive Summary
+
+✔ KPI Snapshot
+
+✔ Charts
+
+**********
+AI Summary
+
+Generates:
+
+Executive Summary
+
+Blue Group generated 58% of total sales.
+
+Bone Tab remains the highest contributing product.
+
+Q2 sales increased 17% versus Q1.
+
+Mehmoodabad underperformed compared with
+Clifton/Defence/Gizri.
+
+Recommended focus:
+Increase distribution of Bonniecare and Bone Tab
+in Dehli Cly.DM and Mehmoodabad.
+
+without requiring external AI APIs.

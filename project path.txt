@@ -1,0 +1,16 @@
+Sales BI Pro/
+│
+├── app.py
+├── config.py
+├── state.py
+├── utils.py
+├── style.css
+│
+├── pages/
+│   ├── 1_Executive.py
+│   ├── 2_Product.py
+│   ├── 3_Area.py
+│   ├── 4_Salesman.py
+│   ├── 5_Forecast.py
+│
+└── assets/
