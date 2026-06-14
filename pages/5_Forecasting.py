@@ -29,6 +29,12 @@ monthly = monthly.sort_values("Month")
 # Create proper time index
 monthly["t"] = np.arange(len(monthly))
 
+if len(monthly) < 3:
+    st.error(
+        "At least 3 months of sales history are required for forecasting."
+    )
+    st.stop()
+
 # ------------------------
 # MODEL TRAINING
 # ------------------------
@@ -36,21 +42,28 @@ model = LinearRegression()
 model.fit(monthly[["t"]], monthly["Amount"])
 
 # ------------------------
-# FUTURE DATES (FIXED)
+#  Next 3 months
 # ------------------------
-future_t = np.array([[len(monthly)], [len(monthly)+1], [len(monthly)+2]])
-future_pred = model.predict(future_t)
 
 future_dates = pd.date_range(
     start=monthly["Month"].max(),
     periods=4,
-    freq="M"
+    freq="MS"
 )[1:]
+
+future_t = np.arange(
+    len(monthly),
+    len(monthly) + 3
+).reshape(-1, 1)
+
+future_pred = model.predict(future_t)
 
 forecast_df = pd.DataFrame({
     "Month": future_dates,
-    "Forecast": future_pred
+    "Forecast": np.maximum(future_pred, 0)
 })
+
+forecast_df["MonthLabel"] = forecast_df["Month"].dt.strftime("%b-%y")
 
 # ------------------------
 # VISUALIZATION (PRO STYLE)
