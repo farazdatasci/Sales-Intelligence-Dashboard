@@ -1,363 +1,363 @@
-Month,Quarter,Group,Product,Area,Units,Amount,Sales_Man
-Jan-26,Q1,Blue,P-A,Clifton/Defence/Gizri,5,5150,
-Jan-26,Q1,Blue,P-A,Dehli Cly.DM,1,1030,
-Jan-26,Q1,Blue,P-A,Mehmoodabad,4,4120,
-Jan-26,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,5,5150,
-Jan-26,Q1,Blue,P-A 50+,Dehli Cly.DM,1,1030,
-Jan-26,Q1,Blue,P-A 50+,Mehmoodabad,2,2060,
-Jan-26,Q1,Blue,P-B ,Clifton/Defence/Gizri,30,30900,
-Jan-26,Q1,Blue,P-B ,Mehmoodabad,5,5150,
-Jan-26,Q1,Blue,P-BT,Clifton/Defence/Gizri,16,16480,
-Jan-26,Q1,Blue,P-BT,Dehli Cly.DM,2,2060,
-Jan-26,Q1,Blue,P-BT,Mehmoodabad,16,16480,
-Jan-26,Q1,Blue,P-BT,JPMC Cantt,2,2060,
-Jan-26,Q1,Blue,P-F ,Clifton/Defence/Gizri,4,4120,
-Jan-26,Q1,Blue,P-F ,Dehli Cly.DM,4,4120,
-Jan-26,Q1,Blue,P-F ,JPMC Cantt,2,2060,
-Jan-26,Q1,Blue,P-P M,Clifton/Defence/Gizri,3,3090,
-Jan-26,Q1,Blue,P-P M,Dehli Cly.DM,4,4120,
-Jan-26,Q1,Green,P-A L,Clifton/Defence/Gizri,13,13390,
-Jan-26,Q1,Green,P-A L,Dehli Cly.DM,1,1030,
-Jan-26,Q1,Green,P-A L,Mehmoodabad,12,12360,
-Jan-26,Q1,Green,P-A H(A),Mehmoodabad,30,30900,
-Jan-26,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,7,7210,
-Jan-26,Q1,Green,P-A L 50+,Dehli Cly.DM,1,1030,
-Jan-26,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,11,11330,
-Jan-26,Q1,Green,P-PG Care ,Dehli Cly.DM,2,2060,
-Jan-26,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1,1030,
-Jan-26,Q1,Green,P-PG Care ,Mehmoodabad,1,1030,
-Jan-26,Q1,Green,P-PG Care ,JPMC Cantt,2,2060,
-Jan-26,Q1,Green,P-S DS,Clifton/Defence/Gizri,38,39140,
-Jan-26,Q1,Green,P-S DS,Dehli Cly.DM,3,3090,
-Jan-26,Q1,Green,P-S DS,Mehmoodabad,2,2060,
-26-Feb,Q1,Blue,P-A,Clifton/Defence/Gizri,11,11330,
-26-Feb,Q1,Blue,P-A,Mehmoodabad,7,7210,
-26-Feb,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,8,8240,
-26-Feb,Q1,Blue,P-A 50+,Mehmoodabad,1,1030,
-26-Feb,Q1,Blue,P-B ,Clifton/Defence/Gizri,22,22660,
-26-Feb,Q1,Blue,P-B ,Dehli Cly.DM,2,2060,
-26-Feb,Q1,Blue,P-B ,Mehmoodabad,7,7210,
-26-Feb,Q1,Blue,P-BT,Clifton/Defence/Gizri,14,14420,
-26-Feb,Q1,Blue,P-BT,Dehli Cly.DM,5,5150,
-26-Feb,Q1,Blue,P-BT,Mehmoodabad,10,10300,
-26-Feb,Q1,Blue,P-BT,Office Sales,5,5150,
-26-Feb,Q1,Blue,P-F ,Clifton/Defence/Gizri,4,4120,
-26-Feb,Q1,Blue,P-F ,Dehli Cly.DM,5,5150,
-26-Feb,Q1,Blue,P-F ,Mehmoodabad,3,3090,
-26-Feb,Q1,Blue,P-P M,Clifton/Defence/Gizri,1,1030,
-26-Feb,Q1,Blue,P-P M,Dehli Cly.DM,5,5150,
-26-Feb,Q1,Blue,P-P M,Mehmoodabad,10,10300,
-26-Feb,Q1,Green,P-A L,Clifton/Defence/Gizri,27,27810,
-26-Feb,Q1,Green,P-A L,Mehmoodabad,13,13390,
-26-Feb,Q1,Green,P-A H(A),Mehmoodabad,10,10300,
-26-Feb,Q1,Green,P-A H(A),Office Sales,25,25750,
-26-Feb,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,9,9270,
-26-Feb,Q1,Green,P-A L 50+,Mehmoodabad,2,2060,
-26-Feb,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,25,25750,
-26-Feb,Q1,Green,P-PG Care ,Dehli Cly.DM,6,6180,
-26-Feb,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1,1030,
-26-Feb,Q1,Green,P-PG Care ,Mehmoodabad,1,1030,
-26-Feb,Q1,Green,P-S DS,Clifton/Defence/Gizri,6,6180,
-26-Feb,Q1,Green,P-S DS,Dehli Cly.DM,2,2060,
-26-Feb,Q1,Green,P-S DS,Mehmoodabad,4,4120,
-26-Mar,Q1,Blue,P-A,Clifton/Defence/Gizri,5,5150,
-26-Mar,Q1,Blue,P-A,Mehmoodabad,7,7210,
-26-Mar,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,4,4120,
-26-Mar,Q1,Blue,P-A 50+,Mehmoodabad,3,3090,
-26-Mar,Q1,Blue,P-B ,Clifton/Defence/Gizri,39,40170,
-26-Mar,Q1,Blue,P-B ,Mehmoodabad,4,4120,
-26-Mar,Q1,Blue,P-B ,Office Sales,4,4120,
-26-Mar,Q1,Blue,P-BT,Clifton/Defence/Gizri,14,14420,
-26-Mar,Q1,Blue,P-BT,Mehmoodabad,10,10300,
-26-Mar,Q1,Blue,P-BT,Office Sales,10,10300,
-26-Mar,Q1,Blue,P-F ,Clifton/Defence/Gizri,2,2060,
-26-Mar,Q1,Blue,P-F ,Sheri Jinnah Kemari,2,2060,
-26-Mar,Q1,Blue,P-F ,Mehmoodabad,4,4120,
-26-Mar,Q1,Blue,P-P M,Dehli Cly.DM,1,1030,
-26-Mar,Q1,Green,P-A L,Clifton/Defence/Gizri,7,7210,
-26-Mar,Q1,Green,P-A L,Mehmoodabad,17,17510,
-26-Mar,Q1,Green,P-A H(A),Mehmoodabad,10,10300,
-26-Mar,Q1,Green,P-A H(A),Office Sales,50,51500,
-26-Mar,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,7,7210,
-26-Mar,Q1,Green,P-A L 50+,Mehmoodabad,2,2060,
-26-Mar,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,4,4120,
-26-Mar,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1,1030,
-26-Mar,Q1,Green,P-PG Care ,Mehmoodabad,1,1030,
-26-Mar,Q1,Green,P-S DS,Clifton/Defence/Gizri,23,23690,
-26-Mar,Q1,Green,P-S DS,Dehli Cly.DM,2,2060,
-26-Apr,Q2,Blue,P-A,Clifton/Defence/Gizri,16,16480,
-26-Apr,Q2,Blue,P-A,Mehmoodabad,4,4120,
-26-Apr,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,8,8240,
-26-Apr,Q2,Blue,P-A 50+,Mehmoodabad,1,1030,
-26-Apr,Q2,Blue,P-B ,Clifton/Defence/Gizri,33,33990,
-26-Apr,Q2,Blue,P-B ,Mehmoodabad,8,8240,
-26-Apr,Q2,Blue,P-BT,Clifton/Defence/Gizri,8,8240,
-26-Apr,Q2,Blue,P-BT,Dehli Cly.DM,7,7210,
-26-Apr,Q2,Blue,P-BT,Mehmoodabad,8,8240,
-26-Apr,Q2,Blue,P-BT,Office Sales,20,20600,
-26-Apr,Q2,Blue,P-F ,Clifton/Defence/Gizri,11,11330,
-26-Apr,Q2,Blue,P-F ,Dehli Cly.DM,8,8240,
-26-Apr,Q2,Blue,P-F ,Sheri Jinnah Kemari,3,3090,
-26-Apr,Q2,Blue,P-F ,Mehmoodabad,1,1030,
-26-Apr,Q2,Blue,P-P M,Clifton/Defence/Gizri,27,27810,
-26-Apr,Q2,Blue,P-P M,Dehli Cly.DM,8,8240,
-26-Apr,Q2,Green,P-A L,Clifton/Defence/Gizri,27,27810,
-26-Apr,Q2,Green,P-A L,Mehmoodabad,15,15450,
-26-Apr,Q2,Green,P-A H(A),Clifton/Defence/Gizri,7,7210,
-26-Apr,Q2,Green,P-A H(A),Mehmoodabad,2,2060,
-26-Apr,Q2,Green,P-A H(A),Office Sales,25,25750,
-26-Apr,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,12,12360,
-26-Apr,Q2,Green,P-PG Care ,Dehli Cly.DM,2,2060,
-26-Apr,Q2,Green,P-PG Care ,Sheri Jinnah Kemari,1,1030,
-26-Apr,Q2,Green,P-PG Care ,Mehmoodabad,2,2060,
-26-Apr,Q2,Green,P-S DS,Clifton/Defence/Gizri,41,42230,
-26-Apr,Q2,Green,P-S DS,Mehmoodabad,1,1030,
-26-May,Q2,Blue,P-A,Clifton/Defence/Gizri,20,20600,
-26-May,Q2,Blue,P-A,Mehmoodabad,4,4120,
-26-May,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,12,12360,
-26-May,Q2,Blue,P-B ,Clifton/Defence/Gizri,40,41200,
-26-May,Q2,Blue,P-B ,Dehli Cly.DM,13,13390,
-26-May,Q2,Blue,P-B ,Mehmoodabad,2,2060,
-26-May,Q2,Blue,P-BT,Clifton/Defence/Gizri,33,33990,
-26-May,Q2,Blue,P-BT,Dehli Cly.DM,18,18540,
-26-May,Q2,Blue,P-BT,Mehmoodabad,2,2060,
-26-May,Q2,Blue,P-BT,Office Sales,10,10300,
-26-May,Q2,Blue,P-F ,Clifton/Defence/Gizri,9,9270,
-26-May,Q2,Blue,P-F ,Dehli Cly.DM,9,9270,
-26-May,Q2,Blue,P-F ,Office Sales,2,2060,
-26-May,Q2,Blue,P-P M,Clifton/Defence/Gizri,5,5150,
-26-May,Q2,Blue,P-P M,Dehli Cly.DM,6,6180,
-26-May,Q2,Blue,P-P M,Mehmoodabad,1,1030,
-26-May,Q2,Blue,P-P M,Office Sales,2,2060,
-26-May,Q2,Green,P-A L,Clifton/Defence/Gizri,13,13390,
-26-May,Q2,Green,P-A L,Dehli Cly.DM,8,8240,
-26-May,Q2,Green,P-A L,Mehmoodabad,15,15450,
-26-May,Q2,Green,P-A H(A),Clifton/Defence/Gizri,6,6180,
-26-May,Q2,Green,P-A H(A),Dehli Cly.DM,5,5150,
-26-May,Q2,Green,P-A H(A),Mehmoodabad,2,2060,
-26-May,Q2,Green,P-A L 50+,Clifton/Defence/Gizri,6,6180,
-26-May,Q2,Green,P-A L 50+,Office Sales,25,25750,
-26-May,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,22,22660,
-26-May,Q2,Green,P-PG Care ,Dehli Cly.DM,1,1030,
-26-May,Q2,Green,P-PG Care ,Mehmoodabad,8,8240,
-26-May,Q2,Green,P-S DS,Clifton/Defence/Gizri,28,28840,
-26-May,Q2,Green,P-S DS,Dehli Cly.DM,7,7210,
-26-Jun,Q2,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-A,Mehmoodabad,,,
-26-Jun,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-A 50+,Mehmoodabad,,,
-26-Jun,Q2,Blue,P-B ,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-B ,Mehmoodabad,,,
-26-Jun,Q2,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-BT,Dehli Cly.DM,,,
-26-Jun,Q2,Blue,P-BT,Mehmoodabad,,,
-26-Jun,Q2,Blue,P-BT,Office Sales,,,
-26-Jun,Q2,Blue,P-F ,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-F ,Dehli Cly.DM,,,
-26-Jun,Q2,Blue,P-F ,Sheri Jinnah Kemari,,,
-26-Jun,Q2,Blue,P-F ,Mehmoodabad,,,
-26-Jun,Q2,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Blue,P-P M,Dehli Cly.DM,,,
-26-Jun,Q2,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Green,P-A L,Mehmoodabad,,,
-26-Jun,Q2,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Jun,Q2,Green,P-A H(A),Mehmoodabad,,,
-26-Jun,Q2,Green,P-A H(A),Office Sales,,,
-26-Jun,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Green,P-PG Care ,Dehli Cly.DM,,,
-26-Jun,Q2,Green,P-PG Care ,Sheri Jinnah Kemari,,,
-26-Jun,Q2,Green,P-PG Care ,Mehmoodabad,,,
-26-Jun,Q2,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Jun,Q2,Green,P-S DS,Mehmoodabad,,,
-26-Jul,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-A,Mehmoodabad,,,
-26-Jul,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-B ,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-B ,Dehli Cly.DM,,,
-26-Jul,Q3,Blue,P-B ,Mehmoodabad,,,
-26-Jul,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-BT,Dehli Cly.DM,,,
-26-Jul,Q3,Blue,P-BT,Mehmoodabad,,,
-26-Jul,Q3,Blue,P-BT,Office Sales,,,
-26-Jul,Q3,Blue,P-F ,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-F ,Dehli Cly.DM,,,
-26-Jul,Q3,Blue,P-F ,Office Sales,,,
-26-Jul,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Blue,P-P M,Dehli Cly.DM,,,
-26-Jul,Q3,Blue,P-P M,Mehmoodabad,,,
-26-Jul,Q3,Blue,P-P M,Office Sales,,,
-26-Jul,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Green,P-A L,Dehli Cly.DM,,,
-26-Jul,Q3,Green,P-A L,Mehmoodabad,,,
-26-Jul,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Jul,Q3,Green,P-A H(A),Dehli Cly.DM,,,
-26-Jul,Q3,Green,P-A H(A),Mehmoodabad,,,
-26-Jul,Q3,Green,P-A L 50+,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Green,P-A L 50+,Office Sales,,,
-26-Jul,Q3,Green,P-PG Care ,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Green,P-PG Care ,Dehli Cly.DM,,,
-26-Jul,Q3,Green,P-PG Care ,Mehmoodabad,,,
-26-Jul,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Jul,Q3,Green,P-S DS,Dehli Cly.DM,,,
-26-Aug,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-A,Mehmoodabad,,,
-26-Aug,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-A 50+,Mehmoodabad,,,
-26-Aug,Q3,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-B,Mehmoodabad,,,
-26-Aug,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-BT,Dehli Cly.DM,,,
-26-Aug,Q3,Blue,P-BT,Mehmoodabad,,,
-26-Aug,Q3,Blue,P-BT,Office Sales,,,
-26-Aug,Q3,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-F,Dehli Cly.DM,,,
-26-Aug,Q3,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Aug,Q3,Blue,P-F,Mehmoodabad,,,
-26-Aug,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Blue,P-P M,Dehli Cly.DM,,,
-26-Aug,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Green,P-A L,Mehmoodabad,,,
-26-Aug,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Aug,Q3,Green,P-A H(A),Mehmoodabad,,,
-26-Aug,Q3,Green,P-A H(A),Office Sales,,,
-26-Aug,Q3,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Green,P-PG Care,Dehli Cly.DM,,,
-26-Aug,Q3,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Aug,Q3,Green,P-PG Care,Mehmoodabad,,,
-26-Aug,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Aug,Q3,Green,P-S DS,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-A,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-A 50+,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-B,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-BT,Dehli Cly.DM,,,
-26-Sep,Q3,Blue,P-BT,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-BT,Office Sales,,,
-26-Sep,Q3,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-F,Dehli Cly.DM,,,
-26-Sep,Q3,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Sep,Q3,Blue,P-F,Mehmoodabad,,,
-26-Sep,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Blue,P-P M,Dehli Cly.DM,,,
-26-Sep,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Green,P-A L,Mehmoodabad,,,
-26-Sep,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Sep,Q3,Green,P-A H(A),Mehmoodabad,,,
-26-Sep,Q3,Green,P-A H(A),Office Sales,,,
-26-Sep,Q3,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Green,P-PG Care,Dehli Cly.DM,,,
-26-Sep,Q3,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Sep,Q3,Green,P-PG Care,Mehmoodabad,,,
-26-Sep,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Sep,Q3,Green,P-S DS,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-A,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-A 50+,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-B,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-BT,Dehli Cly.DM,,,
-26-Oct,Q4,Blue,P-BT,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-BT,Office Sales,,,
-26-Oct,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-F,Dehli Cly.DM,,,
-26-Oct,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Oct,Q4,Blue,P-F,Mehmoodabad,,,
-26-Oct,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Blue,P-P M,Dehli Cly.DM,,,
-26-Oct,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Green,P-A L,Mehmoodabad,,,
-26-Oct,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Oct,Q4,Green,P-A H(A),Mehmoodabad,,,
-26-Oct,Q4,Green,P-A H(A),Office Sales,,,
-26-Oct,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Green,P-PG Care,Dehli Cly.DM,,,
-26-Oct,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Oct,Q4,Green,P-PG Care,Mehmoodabad,,,
-26-Oct,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Oct,Q4,Green,P-S DS,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-A,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-A 50+,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-B,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-BT,Dehli Cly.DM,,,
-26-Nov,Q4,Blue,P-BT,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-BT,Office Sales,,,
-26-Nov,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-F,Dehli Cly.DM,,,
-26-Nov,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Nov,Q4,Blue,P-F,Mehmoodabad,,,
-26-Nov,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Blue,P-P M,Dehli Cly.DM,,,
-26-Nov,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Green,P-A L,Mehmoodabad,,,
-26-Nov,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Nov,Q4,Green,P-A H(A),Mehmoodabad,,,
-26-Nov,Q4,Green,P-A H(A),Office Sales,,,
-26-Nov,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Green,P-PG Care,Dehli Cly.DM,,,
-26-Nov,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Nov,Q4,Green,P-PG Care,Mehmoodabad,,,
-26-Nov,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Nov,Q4,Green,P-S DS,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-A,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-A 50+,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-B,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-BT,Dehli Cly.DM,,,
-26-Dec,Q4,Blue,P-BT,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-BT,Office Sales,,,
-26-Dec,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-F,Dehli Cly.DM,,,
-26-Dec,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Dec,Q4,Blue,P-F,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-P M,Dehli Cly.DM,,,
-26-Dec,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-A L,Mehmoodabad,,,
-26-Dec,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-A H(A),Mehmoodabad,,,
-26-Dec,Q4,Green,P-A H(A),Office Sales,,,
-26-Dec,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-PG Care,Dehli Cly.DM,,,
-26-Dec,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Dec,Q4,Green,P-PG Care,Mehmoodabad,,,
-26-Dec,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-S DS,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-A,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-A 50+,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-B,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-BT,Dehli Cly.DM,,,
-26-Dec,Q4,Blue,P-BT,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-BT,Office Sales,,,
-26-Dec,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-F,Dehli Cly.DM,,,
-26-Dec,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
-26-Dec,Q4,Blue,P-F,Mehmoodabad,,,
-26-Dec,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Blue,P-P M,Dehli Cly.DM,,,
-26-Dec,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-A L,Mehmoodabad,,,
-26-Dec,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-A H(A),Mehmoodabad,,,
-26-Dec,Q4,Green,P-A H(A),Office Sales,,,
-26-Dec,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-PG Care,Dehli Cly.DM,,,
-26-Dec,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
-26-Dec,Q4,Green,P-PG Care,Mehmoodabad,,,
-26-Dec,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
-26-Dec,Q4,Green,P-S DS,Mehmoodabad,,,
+Month,Quarter,Group,Product,Area,Units,Amount,Sales_man
+Jan-26,Q1,Blue,P-A,Clifton/Defence/Gizri,5.0,5150.0,Ali
+Jan-26,Q1,Blue,P-A,Dehli Cly.DM,1.0,1030.0,Imran
+Jan-26,Q1,Blue,P-A,Mehmoodabad,4.0,4120.0,Salman
+Jan-26,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,5.0,5150.0,Ali
+Jan-26,Q1,Blue,P-A 50+,Dehli Cly.DM,1.0,1030.0,Imran
+Jan-26,Q1,Blue,P-A 50+,Mehmoodabad,2.0,2060.0,Ahmed
+Jan-26,Q1,Blue,P-B ,Clifton/Defence/Gizri,30.0,30900.0,Furqan
+Jan-26,Q1,Blue,P-B ,Mehmoodabad,5.0,5150.0,Ahmed
+Jan-26,Q1,Blue,P-BT,Clifton/Defence/Gizri,16.0,16480.0,Furqan
+Jan-26,Q1,Blue,P-BT,Dehli Cly.DM,2.0,2060.0,Rehan
+Jan-26,Q1,Blue,P-BT,Mehmoodabad,16.0,16480.0,Furqan
+Jan-26,Q1,Blue,P-BT,JPMC Cantt,2.0,2060.0,Rehan
+Jan-26,Q1,Blue,P-F ,Clifton/Defence/Gizri,4.0,4120.0,Ali
+Jan-26,Q1,Blue,P-F ,Dehli Cly.DM,4.0,4120.0,Imran
+Jan-26,Q1,Blue,P-F ,JPMC Cantt,2.0,2060.0,Rehan
+Jan-26,Q1,Blue,P-P M,Clifton/Defence/Gizri,3.0,3090.0,Ali
+Jan-26,Q1,Blue,P-P M,Dehli Cly.DM,4.0,4120.0,Imran
+Jan-26,Q1,Green,P-A L,Clifton/Defence/Gizri,13.0,13390.0,Furqan
+Jan-26,Q1,Green,P-A L,Dehli Cly.DM,1.0,1030.0,Imran
+Jan-26,Q1,Green,P-A L,Mehmoodabad,12.0,12360.0,Salman
+Jan-26,Q1,Green,P-A H(A),Mehmoodabad,30.0,30900.0,Furqan
+Jan-26,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,7.0,7210.0,Ali
+Jan-26,Q1,Green,P-A L 50+,Dehli Cly.DM,1.0,1030.0,Imran
+Jan-26,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,11.0,11330.0,Furqan
+Jan-26,Q1,Green,P-PG Care ,Dehli Cly.DM,2.0,2060.0,Rehan
+Jan-26,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1.0,1030.0,Ahmed
+Jan-26,Q1,Green,P-PG Care ,Mehmoodabad,1.0,1030.0,Ahmed
+Jan-26,Q1,Green,P-PG Care ,JPMC Cantt,2.0,2060.0,Rehan
+Jan-26,Q1,Green,P-S DS,Clifton/Defence/Gizri,38.0,39140.0,Furqan
+Jan-26,Q1,Green,P-S DS,Dehli Cly.DM,3.0,3090.0,Rehan
+Jan-26,Q1,Green,P-S DS,Mehmoodabad,2.0,2060.0,Ahmed
+Feb-26,Q1,Blue,P-A,Clifton/Defence/Gizri,11.0,11330.0,Furqan
+Feb-26,Q1,Blue,P-A,Mehmoodabad,7.0,7210.0,Salman
+Feb-26,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,8.0,8240.0,Furqan
+Feb-26,Q1,Blue,P-A 50+,Mehmoodabad,1.0,1030.0,Ahmed
+Feb-26,Q1,Blue,P-B ,Clifton/Defence/Gizri,22.0,22660.0,Furqan
+Feb-26,Q1,Blue,P-B ,Dehli Cly.DM,2.0,2060.0,Rehan
+Feb-26,Q1,Blue,P-B ,Mehmoodabad,7.0,7210.0,Salman
+Feb-26,Q1,Blue,P-BT,Clifton/Defence/Gizri,14.0,14420.0,Furqan
+Feb-26,Q1,Blue,P-BT,Dehli Cly.DM,5.0,5150.0,Rehan
+Feb-26,Q1,Blue,P-BT,Mehmoodabad,10.0,10300.0,Salman
+Feb-26,Q1,Blue,P-BT,Office Sales,5.0,5150.0,Ahmed
+Feb-26,Q1,Blue,P-F ,Clifton/Defence/Gizri,4.0,4120.0,Ali
+Feb-26,Q1,Blue,P-F ,Dehli Cly.DM,5.0,5150.0,Rehan
+Feb-26,Q1,Blue,P-F ,Mehmoodabad,3.0,3090.0,Ahmed
+Feb-26,Q1,Blue,P-P M,Clifton/Defence/Gizri,1.0,1030.0,Ali
+Feb-26,Q1,Blue,P-P M,Dehli Cly.DM,5.0,5150.0,Rehan
+Feb-26,Q1,Blue,P-P M,Mehmoodabad,10.0,10300.0,Salman
+Feb-26,Q1,Green,P-A L,Clifton/Defence/Gizri,27.0,27810.0,Furqan
+Feb-26,Q1,Green,P-A L,Mehmoodabad,13.0,13390.0,Furqan
+Feb-26,Q1,Green,P-A H(A),Mehmoodabad,10.0,10300.0,Salman
+Feb-26,Q1,Green,P-A H(A),Office Sales,25.0,25750.0,Ahmed
+Feb-26,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,9.0,9270.0,Furqan
+Feb-26,Q1,Green,P-A L 50+,Mehmoodabad,2.0,2060.0,Ahmed
+Feb-26,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,25.0,25750.0,Furqan
+Feb-26,Q1,Green,P-PG Care ,Dehli Cly.DM,6.0,6180.0,Rehan
+Feb-26,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1.0,1030.0,Ahmed
+Feb-26,Q1,Green,P-PG Care ,Mehmoodabad,1.0,1030.0,Ahmed
+Feb-26,Q1,Green,P-S DS,Clifton/Defence/Gizri,6.0,6180.0,Ali
+Feb-26,Q1,Green,P-S DS,Dehli Cly.DM,2.0,2060.0,Rehan
+Feb-26,Q1,Green,P-S DS,Mehmoodabad,4.0,4120.0,Ahmed
+Mar-26,Q1,Blue,P-A,Clifton/Defence/Gizri,5.0,5150.0,Ali
+Mar-26,Q1,Blue,P-A,Mehmoodabad,7.0,7210.0,Salman
+Mar-26,Q1,Blue,P-A 50+,Clifton/Defence/Gizri,4.0,4120.0,Ali
+Mar-26,Q1,Blue,P-A 50+,Mehmoodabad,3.0,3090.0,Ahmed
+Mar-26,Q1,Blue,P-B ,Clifton/Defence/Gizri,39.0,40170.0,Furqan
+Mar-26,Q1,Blue,P-B ,Mehmoodabad,4.0,4120.0,Ahmed
+Mar-26,Q1,Blue,P-B ,Office Sales,4.0,4120.0,Ahmed
+Mar-26,Q1,Blue,P-BT,Clifton/Defence/Gizri,14.0,14420.0,Furqan
+Mar-26,Q1,Blue,P-BT,Mehmoodabad,10.0,10300.0,Salman
+Mar-26,Q1,Blue,P-BT,Office Sales,10.0,10300.0,Salman
+Mar-26,Q1,Blue,P-F ,Clifton/Defence/Gizri,2.0,2060.0,Ali
+Mar-26,Q1,Blue,P-F ,Sheri Jinnah Kemari,2.0,2060.0,Ahmed
+Mar-26,Q1,Blue,P-F ,Mehmoodabad,4.0,4120.0,Ahmed
+Mar-26,Q1,Blue,P-P M,Dehli Cly.DM,1.0,1030.0,Imran
+Mar-26,Q1,Green,P-A L,Clifton/Defence/Gizri,7.0,7210.0,Ali
+Mar-26,Q1,Green,P-A L,Mehmoodabad,17.0,17510.0,Salman
+Mar-26,Q1,Green,P-A H(A),Mehmoodabad,10.0,10300.0,Salman
+Mar-26,Q1,Green,P-A H(A),Office Sales,50.0,51500.0,Furqan
+Mar-26,Q1,Green,P-A L 50+,Clifton/Defence/Gizri,7.0,7210.0,Ali
+Mar-26,Q1,Green,P-A L 50+,Mehmoodabad,2.0,2060.0,Babar
+Mar-26,Q1,Green,P-PG Care ,Clifton/Defence/Gizri,4.0,4120.0,Ali
+Mar-26,Q1,Green,P-PG Care ,Sheri Jinnah Kemari,1.0,1030.0,Babar
+Mar-26,Q1,Green,P-PG Care ,Mehmoodabad,1.0,1030.0,Babar
+Mar-26,Q1,Green,P-S DS,Clifton/Defence/Gizri,23.0,23690.0,Furqan
+Mar-26,Q1,Green,P-S DS,Dehli Cly.DM,2.0,2060.0,Rehan
+Apr-26,Q2,Blue,P-A,Clifton/Defence/Gizri,16.0,16480.0,Furqan
+Apr-26,Q2,Blue,P-A,Mehmoodabad,4.0,4120.0,Babar
+Apr-26,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,8.0,8240.0,Furqan
+Apr-26,Q2,Blue,P-A 50+,Mehmoodabad,1.0,1030.0,Babar
+Apr-26,Q2,Blue,P-B ,Clifton/Defence/Gizri,33.0,33990.0,Furqan
+Apr-26,Q2,Blue,P-B ,Mehmoodabad,8.0,8240.0,Salman
+Apr-26,Q2,Blue,P-BT,Clifton/Defence/Gizri,8.0,8240.0,Furqan
+Apr-26,Q2,Blue,P-BT,Dehli Cly.DM,7.0,7210.0,Imran
+Apr-26,Q2,Blue,P-BT,Mehmoodabad,8.0,8240.0,Salman
+Apr-26,Q2,Blue,P-BT,Office Sales,20.0,20600.0,Babar
+Apr-26,Q2,Blue,P-F ,Clifton/Defence/Gizri,11.0,11330.0,Furqan
+Apr-26,Q2,Blue,P-F ,Dehli Cly.DM,8.0,8240.0,Furqan
+Apr-26,Q2,Blue,P-F ,Sheri Jinnah Kemari,3.0,3090.0,Babar
+Apr-26,Q2,Blue,P-F ,Mehmoodabad,1.0,1030.0,Babar
+Apr-26,Q2,Blue,P-P M,Clifton/Defence/Gizri,27.0,27810.0,Furqan
+Apr-26,Q2,Blue,P-P M,Dehli Cly.DM,8.0,8240.0,Furqan
+Apr-26,Q2,Green,P-A L,Clifton/Defence/Gizri,27.0,27810.0,Furqan
+Apr-26,Q2,Green,P-A L,Mehmoodabad,15.0,15450.0,Salman
+Apr-26,Q2,Green,P-A H(A),Clifton/Defence/Gizri,7.0,7210.0,Ali
+Apr-26,Q2,Green,P-A H(A),Mehmoodabad,2.0,2060.0,Babar
+Apr-26,Q2,Green,P-A H(A),Office Sales,25.0,25750.0,Babar
+Apr-26,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,12.0,12360.0,Furqan
+Apr-26,Q2,Green,P-PG Care ,Dehli Cly.DM,2.0,2060.0,Rehan
+Apr-26,Q2,Green,P-PG Care ,Sheri Jinnah Kemari,1.0,1030.0,Babar
+Apr-26,Q2,Green,P-PG Care ,Mehmoodabad,2.0,2060.0,Babar
+Apr-26,Q2,Green,P-S DS,Clifton/Defence/Gizri,41.0,42230.0,Furqan
+Apr-26,Q2,Green,P-S DS,Mehmoodabad,1.0,1030.0,Babar
+May-26,Q2,Blue,P-A,Clifton/Defence/Gizri,20.0,20600.0,Furqan
+May-26,Q2,Blue,P-A,Mehmoodabad,4.0,4120.0,Babar
+May-26,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,12.0,12360.0,Furqan
+May-26,Q2,Blue,P-B ,Clifton/Defence/Gizri,40.0,41200.0,Furqan
+May-26,Q2,Blue,P-B ,Dehli Cly.DM,13.0,13390.0,Furqan
+May-26,Q2,Blue,P-B ,Mehmoodabad,2.0,2060.0,Babar
+May-26,Q2,Blue,P-BT,Clifton/Defence/Gizri,33.0,33990.0,Furqan
+May-26,Q2,Blue,P-BT,Dehli Cly.DM,18.0,18540.0,Furqan
+May-26,Q2,Blue,P-BT,Mehmoodabad,2.0,2060.0,Babar
+May-26,Q2,Blue,P-BT,Office Sales,10.0,10300.0,Salman
+May-26,Q2,Blue,P-F ,Clifton/Defence/Gizri,9.0,9270.0,Furqan
+May-26,Q2,Blue,P-F ,Dehli Cly.DM,9.0,9270.0,Furqan
+May-26,Q2,Blue,P-F ,Office Sales,2.0,2060.0,Babar
+May-26,Q2,Blue,P-P M,Clifton/Defence/Gizri,5.0,5150.0,Ali
+May-26,Q2,Blue,P-P M,Dehli Cly.DM,6.0,6180.0,Rehan
+May-26,Q2,Blue,P-P M,Mehmoodabad,1.0,1030.0,Babar
+May-26,Q2,Blue,P-P M,Office Sales,2.0,2060.0,Babar
+May-26,Q2,Green,P-A L,Clifton/Defence/Gizri,13.0,13390.0,Furqan
+May-26,Q2,Green,P-A L,Dehli Cly.DM,8.0,8240.0,Furqan
+May-26,Q2,Green,P-A L,Mehmoodabad,15.0,15450.0,Salman
+May-26,Q2,Green,P-A H(A),Clifton/Defence/Gizri,6.0,6180.0,Ali
+May-26,Q2,Green,P-A H(A),Dehli Cly.DM,5.0,5150.0,Rehan
+May-26,Q2,Green,P-A H(A),Mehmoodabad,2.0,2060.0,Babar
+May-26,Q2,Green,P-A L 50+,Clifton/Defence/Gizri,6.0,6180.0,Ali
+May-26,Q2,Green,P-A L 50+,Office Sales,25.0,25750.0,Babar
+May-26,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,22.0,22660.0,Furqan
+May-26,Q2,Green,P-PG Care ,Dehli Cly.DM,1.0,1030.0,Imran
+May-26,Q2,Green,P-PG Care ,Mehmoodabad,8.0,8240.0,Salman
+May-26,Q2,Green,P-S DS,Clifton/Defence/Gizri,28.0,28840.0,Furqan
+May-26,Q2,Green,P-S DS,Dehli Cly.DM,7.0,7210.0,Imran
+Jun-26,Q2,Blue,P-A,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-A,Mehmoodabad,,,
+Jun-26,Q2,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-A 50+,Mehmoodabad,,,
+Jun-26,Q2,Blue,P-B ,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-B ,Mehmoodabad,,,
+Jun-26,Q2,Blue,P-BT,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-BT,Dehli Cly.DM,,,
+Jun-26,Q2,Blue,P-BT,Mehmoodabad,,,
+Jun-26,Q2,Blue,P-BT,Office Sales,,,
+Jun-26,Q2,Blue,P-F ,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-F ,Dehli Cly.DM,,,
+Jun-26,Q2,Blue,P-F ,Sheri Jinnah Kemari,,,
+Jun-26,Q2,Blue,P-F ,Mehmoodabad,,,
+Jun-26,Q2,Blue,P-P M,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Blue,P-P M,Dehli Cly.DM,,,
+Jun-26,Q2,Green,P-A L,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Green,P-A L,Mehmoodabad,,,
+Jun-26,Q2,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Jun-26,Q2,Green,P-A H(A),Mehmoodabad,,,
+Jun-26,Q2,Green,P-A H(A),Office Sales,,,
+Jun-26,Q2,Green,P-PG Care ,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Green,P-PG Care ,Dehli Cly.DM,,,
+Jun-26,Q2,Green,P-PG Care ,Sheri Jinnah Kemari,,,
+Jun-26,Q2,Green,P-PG Care ,Mehmoodabad,,,
+Jun-26,Q2,Green,P-S DS,Clifton/Defence/Gizri,,,
+Jun-26,Q2,Green,P-S DS,Mehmoodabad,,,
+Jul-26,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-A,Mehmoodabad,,,
+Jul-26,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-B ,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-B ,Dehli Cly.DM,,,
+Jul-26,Q3,Blue,P-B ,Mehmoodabad,,,
+Jul-26,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-BT,Dehli Cly.DM,,,
+Jul-26,Q3,Blue,P-BT,Mehmoodabad,,,
+Jul-26,Q3,Blue,P-BT,Office Sales,,,
+Jul-26,Q3,Blue,P-F ,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-F ,Dehli Cly.DM,,,
+Jul-26,Q3,Blue,P-F ,Office Sales,,,
+Jul-26,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Blue,P-P M,Dehli Cly.DM,,,
+Jul-26,Q3,Blue,P-P M,Mehmoodabad,,,
+Jul-26,Q3,Blue,P-P M,Office Sales,,,
+Jul-26,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Green,P-A L,Dehli Cly.DM,,,
+Jul-26,Q3,Green,P-A L,Mehmoodabad,,,
+Jul-26,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Jul-26,Q3,Green,P-A H(A),Dehli Cly.DM,,,
+Jul-26,Q3,Green,P-A H(A),Mehmoodabad,,,
+Jul-26,Q3,Green,P-A L 50+,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Green,P-A L 50+,Office Sales,,,
+Jul-26,Q3,Green,P-PG Care ,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Green,P-PG Care ,Dehli Cly.DM,,,
+Jul-26,Q3,Green,P-PG Care ,Mehmoodabad,,,
+Jul-26,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
+Jul-26,Q3,Green,P-S DS,Dehli Cly.DM,,,
+Aug-26,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-A,Mehmoodabad,,,
+Aug-26,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-A 50+,Mehmoodabad,,,
+Aug-26,Q3,Blue,P-B,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-B,Mehmoodabad,,,
+Aug-26,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-BT,Dehli Cly.DM,,,
+Aug-26,Q3,Blue,P-BT,Mehmoodabad,,,
+Aug-26,Q3,Blue,P-BT,Office Sales,,,
+Aug-26,Q3,Blue,P-F,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-F,Dehli Cly.DM,,,
+Aug-26,Q3,Blue,P-F,Sheri Jinnah Kemari,,,
+Aug-26,Q3,Blue,P-F,Mehmoodabad,,,
+Aug-26,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Blue,P-P M,Dehli Cly.DM,,,
+Aug-26,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Green,P-A L,Mehmoodabad,,,
+Aug-26,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Aug-26,Q3,Green,P-A H(A),Mehmoodabad,,,
+Aug-26,Q3,Green,P-A H(A),Office Sales,,,
+Aug-26,Q3,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Green,P-PG Care,Dehli Cly.DM,,,
+Aug-26,Q3,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Aug-26,Q3,Green,P-PG Care,Mehmoodabad,,,
+Aug-26,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
+Aug-26,Q3,Green,P-S DS,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-A,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-A,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-A 50+,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-B,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-B,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-BT,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-BT,Dehli Cly.DM,,,
+Sep-26,Q3,Blue,P-BT,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-BT,Office Sales,,,
+Sep-26,Q3,Blue,P-F,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-F,Dehli Cly.DM,,,
+Sep-26,Q3,Blue,P-F,Sheri Jinnah Kemari,,,
+Sep-26,Q3,Blue,P-F,Mehmoodabad,,,
+Sep-26,Q3,Blue,P-P M,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Blue,P-P M,Dehli Cly.DM,,,
+Sep-26,Q3,Green,P-A L,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Green,P-A L,Mehmoodabad,,,
+Sep-26,Q3,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Sep-26,Q3,Green,P-A H(A),Mehmoodabad,,,
+Sep-26,Q3,Green,P-A H(A),Office Sales,,,
+Sep-26,Q3,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Green,P-PG Care,Dehli Cly.DM,,,
+Sep-26,Q3,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Sep-26,Q3,Green,P-PG Care,Mehmoodabad,,,
+Sep-26,Q3,Green,P-S DS,Clifton/Defence/Gizri,,,
+Sep-26,Q3,Green,P-S DS,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-A,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-A 50+,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-B,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-BT,Dehli Cly.DM,,,
+Oct-26,Q4,Blue,P-BT,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-BT,Office Sales,,,
+Oct-26,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-F,Dehli Cly.DM,,,
+Oct-26,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
+Oct-26,Q4,Blue,P-F,Mehmoodabad,,,
+Oct-26,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Blue,P-P M,Dehli Cly.DM,,,
+Oct-26,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Green,P-A L,Mehmoodabad,,,
+Oct-26,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Oct-26,Q4,Green,P-A H(A),Mehmoodabad,,,
+Oct-26,Q4,Green,P-A H(A),Office Sales,,,
+Oct-26,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Green,P-PG Care,Dehli Cly.DM,,,
+Oct-26,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Oct-26,Q4,Green,P-PG Care,Mehmoodabad,,,
+Oct-26,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
+Oct-26,Q4,Green,P-S DS,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-A,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-A 50+,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-B,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-BT,Dehli Cly.DM,,,
+Nov-26,Q4,Blue,P-BT,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-BT,Office Sales,,,
+Nov-26,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-F,Dehli Cly.DM,,,
+Nov-26,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
+Nov-26,Q4,Blue,P-F,Mehmoodabad,,,
+Nov-26,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Blue,P-P M,Dehli Cly.DM,,,
+Nov-26,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Green,P-A L,Mehmoodabad,,,
+Nov-26,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Nov-26,Q4,Green,P-A H(A),Mehmoodabad,,,
+Nov-26,Q4,Green,P-A H(A),Office Sales,,,
+Nov-26,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Green,P-PG Care,Dehli Cly.DM,,,
+Nov-26,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Nov-26,Q4,Green,P-PG Care,Mehmoodabad,,,
+Nov-26,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
+Nov-26,Q4,Green,P-S DS,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-A,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-A 50+,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-B,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-BT,Dehli Cly.DM,,,
+Dec-26,Q4,Blue,P-BT,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-BT,Office Sales,,,
+Dec-26,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-F,Dehli Cly.DM,,,
+Dec-26,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
+Dec-26,Q4,Blue,P-F,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-P M,Dehli Cly.DM,,,
+Dec-26,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-A L,Mehmoodabad,,,
+Dec-26,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-A H(A),Mehmoodabad,,,
+Dec-26,Q4,Green,P-A H(A),Office Sales,,,
+Dec-26,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-PG Care,Dehli Cly.DM,,,
+Dec-26,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Dec-26,Q4,Green,P-PG Care,Mehmoodabad,,,
+Dec-26,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-S DS,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-A,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-A,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-A 50+,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-A 50+,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-B,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-B,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-BT,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-BT,Dehli Cly.DM,,,
+Dec-26,Q4,Blue,P-BT,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-BT,Office Sales,,,
+Dec-26,Q4,Blue,P-F,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-F,Dehli Cly.DM,,,
+Dec-26,Q4,Blue,P-F,Sheri Jinnah Kemari,,,
+Dec-26,Q4,Blue,P-F,Mehmoodabad,,,
+Dec-26,Q4,Blue,P-P M,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Blue,P-P M,Dehli Cly.DM,,,
+Dec-26,Q4,Green,P-A L,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-A L,Mehmoodabad,,,
+Dec-26,Q4,Green,P-A H(A),Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-A H(A),Mehmoodabad,,,
+Dec-26,Q4,Green,P-A H(A),Office Sales,,,
+Dec-26,Q4,Green,P-PG Care,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-PG Care,Dehli Cly.DM,,,
+Dec-26,Q4,Green,P-PG Care,Sheri Jinnah Kemari,,,
+Dec-26,Q4,Green,P-PG Care,Mehmoodabad,,,
+Dec-26,Q4,Green,P-S DS,Clifton/Defence/Gizri,,,
+Dec-26,Q4,Green,P-S DS,Mehmoodabad,,,
